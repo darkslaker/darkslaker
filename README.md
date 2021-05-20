@@ -1,0 +1,4 @@
+- 👋  Hi, I’m @darkslaker a Gamer | Cyber security enthusiast | Mex4’s member | BsidesCDMX Founder member | working at Lyft | Professor in La Salle University CDMX
+- 👀 I’m interested in CyberSecurity, Threat Hunting, Cybertheat Intelligence
+- 🌱 I’m currently learning about ML applied for Threat Hunting
+- 📫 How to reach me at twitter @darkslaker 
